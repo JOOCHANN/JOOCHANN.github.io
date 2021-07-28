@@ -16,7 +16,7 @@ order: 4
 # **Education**
 - 2013.03 ~ 2020.02   
     B.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).
-- 2020.02 ~ Present   
+- 2020.02 ~ present   
     M.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).   
     [DICE Lab <img src='\assets\img\dicelab.png' width='30'> ](https://www.dicelab.kr/home/) 
 
@@ -64,6 +64,14 @@ order: 4
 - (2020.04) [Visual Question Answering Challenge 2021](https://visualqa.org/challenge.html), AWS
 - (2020.12 ~ present) [ICT 바우처 지원 사업](https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD201900000106#ezone) 과제 시작
 - (2021.04 ~ present) 보안 과제 시작
+
+# **Lab Schools**
+1.  (2018.12 ~ 2019.03) [Machine Learning](https://www.coursera.org/learn/machine-learning), Coursera
+2.  (2019.06 ~ 2019.08) [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Stanford
+3.  (2019.08 ~ 2019.11) [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/), Stanford
+4.  (2019.12 ~ 2020.03) [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1196/schedule.html), Stanford
+5.  (2020.06 ~ 2020.08) [CS294-158-SP19 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home), UCB
+6.  (2021.06 ~ present) [CS231A: Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/syllabus.html), Stanford
 
 # **Skills**
 - Python

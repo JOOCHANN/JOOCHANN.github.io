@@ -2,8 +2,8 @@
 title: Activation Function Backpropagation
 author: JooChan Park
 date: 2019-08-22 19:00:00 +0800
-categories: [Documentation, Deep Learning]
-tags: [Documentation]
+categories: [Documentations, Deep Learning]
+tags: [Deep Learning]
 math: true
 pin: true
 ---
@@ -27,5 +27,5 @@ Activation Function들이  Backpropagation가 진행되는 과정을 Derive하�
 <img src='\assets\doc\Activation Function Backpropagation\Activation Function Backpropagation-12.png' width='900'>
 <img src='\assets\doc\Activation Function Backpropagation\Activation Function Backpropagation-13.png' width='900'>
 
-## Reference
+## **Reference**
 1.	Fei-Fei Li, Justin Johnson, Serena Yeung / cs231n-2019-lecture04.
