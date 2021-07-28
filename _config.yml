@@ -9,7 +9,7 @@ baseurl: ''
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
-lang: en
+lang: ko-KR
 
 # The lang attribute of HTML › http://www.lingoes.net/en/translator/langcode.htm
 # We can specify a language different from the layout of the content.
