@@ -4,21 +4,21 @@ icon: fas fa-info
 order: 4
 ---
 
-<img src='../assets/img/my_img.jpg' width='500'>
+<img src='\assets\img\my_img.jpg' width='500'>
 
 # **JooChan Park**
 - Birth : 1994.08.05
 - Email : green261535@gmail.com
 - Email : green669@koreatech.ac.kr
 - Git Blog : [JOOCHAN's Git Blog](https://github.com/JOOCHANN/JOOCHANN.github.io/)
-- M.S Candidate of KOREATECH [DICE Lab <img src='../assets/img/dicelab.png' width='30'> ](https://www.dicelab.kr/home/)   
+- M.S Candidate of KOREATECH [DICE Lab <img src='\assets\img\dicelab.png' width='30'> ](https://www.dicelab.kr/home/)   
   
 # **Education**
 - 2013.03 ~ 2020.02   
     B.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).
 - 2020.02 ~ Present   
     M.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).   
-    [DICE Lab <img src='../assets/img/dicelab.png' width='30'> ](https://www.dicelab.kr/home/) 
+    [DICE Lab <img src='\assets\img\dicelab.png' width='30'> ](https://www.dicelab.kr/home/) 
 
 # **Research Interests**
 - Computer Vision
@@ -41,11 +41,11 @@ order: 4
 # **Awards**
 - [위성 이미지 객체 검출 경진대회 1위](https://dacon.io/competitions/official/235492/leaderboard), 방위사업청장상 수상, Korea (2020)
 
-<img src='../assets/img/EO_challenge.jpg' width='200'>
+<img src='\assets\img\EO_challenge.jpg' width='200'>
 
 - [아리랑 위성영상 AI 객체 검출 경진대회 2위](https://dacon.io/competitions/official/235644/leaderboard), 한국항공우주연구원장상 수상, Korea (2020)
 
-<img src='../assets/img/arirang_challenge.jpg' width='200'>
+<img src='\assets\img\arirang_challenge.jpg' width='200'>
 
 # **Projects**
 - (2018.12 ~ 2019.01) [한국동서발전 빅데이터분석 공모전 트랙1](https://ewp.co.kr/kor/main/main.asp), 동서발전
@@ -61,6 +61,7 @@ order: 4
 - (2020.08) [Naver AI Rush Round2](https://campaign.naver.com/airush/), (스팸 메일 분류, 비정상적인 행위 탐지, 리뷰 이미지 분류), 네이버 클로바 - [Github](https://github.com/JOOCHANN/2020-NAVER-AI-RUSH-Round2)
 - (2020.09) [Korea Heath Datathon 2020 Track B](https://github.com/Korea-Health-Datathon/KHD2020)(7위), 네이버 클로바 - [Github](https://github.com/JOOCHANN/2020-Korea-Health-Datathon)
 - (2020.09 ~ 2020.11) [아리랑 위성영상 AI 객체 검출](https://dacon.io/competitions/official/235644/overview/description)(2위), 한국항공우주연구원 - [Github](https://github.com/JOOCHANN/2020-Dacon-aerial-object-detection-KARI-)
+- (2020.04) [Visual Question Answering Challenge 2021](https://visualqa.org/challenge.html), AWS
 - (2020.12 ~ present) [ICT 바우처 지원 사업](https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD201900000106#ezone) 과제 시작
 - (2021.04 ~ present) 보안 과제 시작
 
