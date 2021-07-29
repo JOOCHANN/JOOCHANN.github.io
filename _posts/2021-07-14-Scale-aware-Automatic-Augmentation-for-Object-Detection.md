@@ -24,6 +24,8 @@ pin: true
 - Object detection의 data augmentation policy
 - Main idea : Classification에 사용되는 데이터셋보다 detection을 위한 데이터셋의 수가 더 적기 때문에, **bounding box** 값 변화를 함께 주어야함
 
+<img src='\assets\doc\Mutually exclusive, Correlation, Independence\Mutually exclusive, Correlation, Independence-1.png' width='900'>
+
 <img src='\assets\papers\Scale aware\img1.png' width='300'>
 _Fig1.Bounding box augmentation 예시_
 
