@@ -8,7 +8,7 @@ math: true
 pin: False
 ---
 
-- [Paper link](https://ieeexplore.ieee.org/abstract/document/9001201?casa_token=R_LrtCbzL4QAAAAA:3YPWwU6yo4ysQverP0MVY6M7ogWpzNIvCLQldEhaIJchm9r5DNjzHs3OiNYasEkLeYy4jqKn29s)
+- [Paper link](https://openaccess.thecvf.com/content_iccv_2017/html/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.html)
 
 ## **Abstract**
 - 기존 CNN에서 사용하는 conv, pooling이 기하학적으로 일정한 패턴을 가정하고 있기 때문에 복잡한 transformation에 유연하게 대처하기 어려움
