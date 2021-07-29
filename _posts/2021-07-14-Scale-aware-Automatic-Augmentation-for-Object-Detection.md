@@ -27,7 +27,7 @@ pin: true
 <img src='\assets\doc\Mutually exclusive, Correlation, Independence\Mutually exclusive, Correlation, Independence-1.png' width='900'>
 
 <img src='\assets\doc\Scale aware Automatic Augmentation for Object Detection\img1.png' width='300'>
-_Fig1.Bounding box augmentation 예시_
+
 
 - 박스의 context를 보고 color or geometric augmentation을 수행하는 방법으로 총 세가지 operation이 있다고 보면 됨
     1. Color operations : 이미지의 color 값을 변환하되, bounding box의 위치 좌표 값에는 변화를 주지 않음 
