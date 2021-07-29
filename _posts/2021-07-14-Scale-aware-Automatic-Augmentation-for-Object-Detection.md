@@ -204,4 +204,3 @@ _Fig1.Bounding box augmentation 예시_
 1.  Zoph, Barret, et al. "Learning data augmentation strategies for object detection." European Conference on Computer Vision. Springer, Cham, 2020.
 2.  John Black, Nigar Hashimzade, and Gareth Myles. A dictionary of economics. Oxford university press, 2012
 3. http://www.aistudy.co.kr/economics/pareto_optimal.htm
-
