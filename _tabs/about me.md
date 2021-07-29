@@ -11,14 +11,14 @@ order: 4
 - Email : green261535@gmail.com
 - Email : green669@koreatech.ac.kr
 - Git Blog : [JOOCHAN's Git Blog](https://github.com/JOOCHANN/JOOCHANN.github.io/)
-- M.S Candidate of KOREATECH [DICE Lab <img src='\assets\img\dicelab.png' width='30'> ](https://www.dicelab.kr/home/)   
+- M.S Candidate of KOREATECH [DICE Lab <img src='\assets\img\dicelab.png' width='20'> ](https://www.dicelab.kr/home/)   
   
 # **Education**
 - 2013.03 ~ 2020.02   
     B.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).
 - 2020.02 ~ present   
     M.S in Computer Science, [KOREATECH University](http://www.koreatech.ac.kr/kor/Main.do/).   
-    [DICE Lab <img src='\assets\img\dicelab.png' width='30'> ](https://www.dicelab.kr/home/) 
+    [DICE Lab <img src='\assets\img\dicelab.png' width='20'> ](https://www.dicelab.kr/home/) 
 
 # **Research Interests**
 - Computer Vision
@@ -32,20 +32,20 @@ order: 4
 - Natural Language Processing
     - Text Classification
     - Visual Question Answering
+- Reinforcement Learning
 
 # **Publication Papers**
 - G. H. Lee, J. C. Park, D. W. Choi, Y. K. Lee, H. B. Choi, and H. Y. Hee, “Design and Implementation of Profanity Filtering Chat Program Based on Deep Learnings,” 한국정보처리학회 2019년도 추계학술발표대회 (in Korean), pp.998-1001, 2019
 - J. C. Park, S. H. Lee, J. U. Jung, S. B. Son, H. S. Oh, and Y. C. Jung, “Uncertainty-based Deep Object Detection from Aerial Images,” Journal of Institute of Control, Robotics and Systems (in Korean), vol.26, no.11, pp.891-899, 2020
-- 
 
 # **Awards**
 - [위성 이미지 객체 검출 경진대회 1위](https://dacon.io/competitions/official/235492/leaderboard), 방위사업청장상 수상, Korea (2020)
 
-<img src='\assets\img\EO_challenge.jpg' width='200'>
+<img src='\assets\img\EO_challenge.jpg' width='250'>
 
 - [아리랑 위성영상 AI 객체 검출 경진대회 2위](https://dacon.io/competitions/official/235644/leaderboard), 한국항공우주연구원장상 수상, Korea (2020)
 
-<img src='\assets\img\arirang_challenge.jpg' width='200'>
+<img src='\assets\img\arirang_challenge.jpg' width='250'>
 
 # **Projects**
 - (2018.12 ~ 2019.01) [한국동서발전 빅데이터분석 공모전 트랙1](https://ewp.co.kr/kor/main/main.asp), 동서발전
@@ -65,16 +65,17 @@ order: 4
 - (2020.12 ~ present) [ICT 바우처 지원 사업](https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD201900000106#ezone) 과제 시작
 - (2021.04 ~ present) 보안 과제 시작
 
-# **Lab Schools**
+# **Studys**
 1.  (2018.12 ~ 2019.03) [Machine Learning](https://www.coursera.org/learn/machine-learning), Coursera
-2.  (2019.06 ~ 2019.08) [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Stanford
-3.  (2019.08 ~ 2019.11) [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/), Stanford
-4.  (2019.12 ~ 2020.03) [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1196/schedule.html), Stanford
-5.  (2020.06 ~ 2020.08) [CS294-158-SP19 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home), UCB
-6.  (2021.06 ~ present) [CS231A: Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/syllabus.html), Stanford
+2.  (2019.03 ~ 2019.06) [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp19/), Berkeley
+3.  (2019.06 ~ 2019.08) [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/), Stanford
+4.  (2019.09 ~ 2019.12) [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/), Stanford
+5.  (2019.01 ~ 2020.05) [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1196/schedule.html), Stanford
+6.  (2020.06 ~ 2020.09) [CS294-158-SP19 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home), UCB
+7.  (2021.06 ~ present) [CS231A: Computer Vision, From 3D Reconstruction to Recognition](http://web.stanford.edu/class/cs231a/syllabus.html), Stanford
 
 # **Skills**
 - Python
-- C++
+- C/C++
 - Pytorch
 - QGIS
