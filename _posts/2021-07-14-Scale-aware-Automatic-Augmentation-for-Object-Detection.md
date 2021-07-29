@@ -3,7 +3,7 @@ title: Paper Review. Scale-aware Automatic Augmentation for Object Detection@CVP
 author: JooChan Park
 date: 2021-07-14 13:00:00 +0800
 categories: [Paper Reviews, Augmentation]
-tags: [Augmentation, Object Detection]
+tags: [Augmentation, Object Detection, CV]
 math: true
 pin: False
 ---

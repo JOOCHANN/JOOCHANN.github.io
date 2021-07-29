@@ -1,9 +1,9 @@
 ---
 title: Paper Review. Feature Selective Anchor-Free Module for Single-Shot Object Detection@CVPR' 2019
 author: JooChan Park
-date: 2021-04-14 13:00:00 +0800
+date: 2021-03-31 13:00:00 +0800
 categories: [Paper Reviews, Object Detection]
-tags: [Object Detection, Anchor Free]
+tags: [Object Detection, Anchor Free, CV]
 math: true
 pin: False
 ---

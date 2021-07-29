@@ -3,7 +3,7 @@ title: Paper Review. Align Deep Features for Oriented Object Detection@IEEE Tran
 author: JooChan Park
 date: 2021-04-14 13:00:00 +0800
 categories: [Paper Reviews, Object Detection]
-tags: [Object Detection, Oriented Object Detection]
+tags: [Object Detection, Oriented Object Detection, CV]
 math: true
 pin: true
 ---

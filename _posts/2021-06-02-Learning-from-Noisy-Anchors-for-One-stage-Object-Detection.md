@@ -3,7 +3,7 @@ title: Paper Review. Learning from Noisy Anchors for One-stage Object Detection@
 author: JooChan Park
 date: 2021-06-02 13:00:00 +0800
 categories: [Paper Reviews, Object Detection]
-tags: [Object Detection]
+tags: [Object Detection, CV]
 math: true
 pin: true
 ---
