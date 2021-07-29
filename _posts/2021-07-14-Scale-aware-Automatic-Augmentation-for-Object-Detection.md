@@ -24,7 +24,7 @@ pin: true
 - Object detection의 data augmentation policy
 - Main idea : Classification에 사용되는 데이터셋보다 detection을 위한 데이터셋의 수가 더 적기 때문에, **bounding box** 값 변화를 함께 주어야함
 
-<img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_1.png' width='300'>
+<img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_1.png' width='300'>
 _Fig1.Bounding box augmentation 예시_
 
 - 박스의 context를 보고 color or geometric augmentation을 수행하는 방법으로 총 세가지 operation이 있다고 보면 됨
@@ -62,7 +62,7 @@ _Fig1.Bounding box augmentation 예시_
     - 그 결과 small object의 경우 주변 pixel이 중요함을 알 수 있으며, 이는 학습 모델이 모든 크기의 객체를 적절히 처리하지 못할 수 있음
     - Bounding box의 scale에 따라 augmentation을 다르게 해주는 area ratio를 제안함
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_2.png' width='800'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_2.png' width='800'>
     _Fig2. Motivation_
 
 - Image-level augmentations
@@ -90,7 +90,7 @@ _Fig1.Bounding box augmentation 예시_
         - area ratio type : small, middle, large
         - area ratio range : 10 discrete values $$[0.2, 0.4, 0.6, 0.8, 1.0, 2, 4, 6, 8, 10]$$
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_3.png' width='800'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_3.png' width='800'>
     _Fig3. Image-level, and box-level augmentations_   
 
 - Box-level augmentations의 효과
@@ -98,7 +98,7 @@ _Fig1.Bounding box augmentation 예시_
 
     $$ 𝐴=𝛼(𝑥,𝑦)∙𝐼+(1−𝛼(𝑥,𝑦))∙𝑇 $$
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_4.png' width='800'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_4.png' width='800'>
     _Fig4. An example of Gaussian-based box-level augmentation_
 
     2. Area ratio라는 학습 가능한 파라미터
@@ -153,7 +153,7 @@ _Fig1.Bounding box augmentation 예시_
 
 - Autoaugment 방법은 일반적으로 proxy task(훈련 이미지가 있는 작은 하위 집합)에 대한 validation accuracy를 search metric으로 사용함. 실험 결과, proxy task에서 accuracy로 구한 policy와 scale-aware metric을 이용하여 구한 policy를 실제 dataset에서 성능을 측정하였을 때, coefficent가 더 높음
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_5.png' width='400'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_5.png' width='400'>
     _Fig5. Coefficients between actual accuracy and metrics_
 
 ### Search algorithm
@@ -161,39 +161,39 @@ _Fig1.Bounding box augmentation 예시_
 - Sample dataset에서 scale-aware estimation metric이 제일 최소가 되도록 fine-tuning하여 최적의 augmentation policy를 찾음
 - Scratch부터 학습하면 시간이 오래 걸리기에, data augmentation없이 학습한 plain model을 augmentation policy로 fine-tuning하여 시간을 줄임
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_6.png' width='400'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_6.png' width='400'>
     _Fig6. Search algorithm_
 
 
 ## **Experiments**
 - Detector별 성능 지표
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_7.png' width='400'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_7.png' width='400'>
     _Fig7. Comparison with object detection augmentation strategies on MS COCO dataset_
 
 - Improvement details on RetinaNet ResNet-50
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_8.png' width='400'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_8.png' width='400'>
     _Fig8. Improvement details_
 
 - Comparison with AutoAug-det on RetinaNet ResNet-50
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_9.png' width='400'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_9.png' width='400'>
     _Fig9. Comparison with AutoAug-det_
 
 - Search on RetinaNet ResNet-50 with different metrics
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_10.png' width='400'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_10.png' width='400'>
     _Fig10. Different scale-aware estimation metrics_
 
 - Improvements across detection and segmentation frameworks
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_11.png' width='800'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_11.png' width='800'>
     _Fig11. Different frameworks_
 
 - Comparison with SOTA data augmentation methods for object detection
 
-    <img src='\assets\papers\Scale-aware-Automatic-Augmentation-for-Object-Detection\img_12.png' width='800'>
+    <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img_12.png' width='800'>
     _Fig12. Comparison with SOTA data augmentation methods_
 
 
