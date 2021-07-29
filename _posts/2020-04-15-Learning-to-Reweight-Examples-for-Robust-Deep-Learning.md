@@ -98,7 +98,7 @@ pin: true
 
 - Deep learning architecture에 바로 적용 가능함
 
-- 모든 training step에 validation을 사용하는 것은 참신함
+- 모든 training step에 validation을 사용하는 것은 참신했음
 
 - 소량이지만 clean한 validation set만 가지고 class imbalance와 noise가 들어간 label을 어느정도 해결 할 수 있다는 점이 흥미로웠음
 
