@@ -22,12 +22,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AI Study                           # the main title
+title: CV Researcher                          # the main title
 
-tagline: JooChan's Blog  # it will display as the sub-title
+tagline: Wear Your Failure As A Badge Of Honour # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Wear Your Failure As A Badge Of Honour
+  Study Room
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://JOOCHANN.github.io'
