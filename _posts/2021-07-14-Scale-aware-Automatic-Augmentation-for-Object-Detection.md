@@ -25,6 +25,8 @@ pin: true
 - Main idea : Classification에 사용되는 데이터셋보다 detection을 위한 데이터셋의 수가 더 적기 때문에, **bounding box** 값 변화를 함께 주어야함
 
 <img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img1.png' width='300'>
+
+<img src='\assets\papers\Scale aware Automatic Augmentation for Object Detection\img1.png' width='300'>
 _Fig1.Bounding box augmentation 예시_
 
 - 박스의 context를 보고 color or geometric augmentation을 수행하는 방법으로 총 세가지 operation이 있다고 보면 됨
