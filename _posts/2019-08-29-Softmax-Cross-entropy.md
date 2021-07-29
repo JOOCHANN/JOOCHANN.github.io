@@ -5,7 +5,7 @@ date: 2019-08-29 19:00:00 +0800
 categories: [Documentations, Deep Learning]
 tags: [Deep Learning]
 math: true
-pin: true
+pin: False
 ---
 
 ## **Introduction**

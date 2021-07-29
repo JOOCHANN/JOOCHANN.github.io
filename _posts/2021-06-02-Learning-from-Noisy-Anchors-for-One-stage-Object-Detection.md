@@ -51,6 +51,8 @@ pin: true
 <img src='\assets\papers\Learning from Noisy Anchors for One-stage Object Detection\slide14.PNG' width='800'>
 <img src='\assets\papers\Learning from Noisy Anchors for One-stage Object Detection\slide15.PNG' width='800'>
 
+## **Proposed Method**
+
 ### Soft Label
 <img src='\assets\papers\Learning from Noisy Anchors for One-stage Object Detection\slide16.PNG' width='800'>
 <img src='\assets\papers\Learning from Noisy Anchors for One-stage Object Detection\slide17.PNG' width='800'>

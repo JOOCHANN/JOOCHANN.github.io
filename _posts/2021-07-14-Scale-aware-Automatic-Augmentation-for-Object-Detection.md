@@ -5,7 +5,7 @@ date: 2021-07-14 13:00:00 +0800
 categories: [Paper Reviews, Augmentation]
 tags: [Augmentation, Object Detection]
 math: true
-pin: true
+pin: False
 ---
 
 - [Paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scale-Aware_Automatic_Augmentation_for_Object_Detection_CVPR_2021_paper.html)

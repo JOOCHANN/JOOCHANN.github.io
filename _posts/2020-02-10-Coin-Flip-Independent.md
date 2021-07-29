@@ -5,7 +5,7 @@ date: 2020-02-10 19:00:00 +0800
 categories: [Documentations, Probability]
 tags: [Probability]
 math: true
-pin: true
+pin: False
 ---
 
 ## **Introduction**
